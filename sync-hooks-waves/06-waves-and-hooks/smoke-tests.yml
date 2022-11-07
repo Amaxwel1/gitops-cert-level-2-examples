@@ -19,4 +19,4 @@ spec:
           - "3"
       restartPolicy: Never
   backoffLimit: 2    
-ost
+
