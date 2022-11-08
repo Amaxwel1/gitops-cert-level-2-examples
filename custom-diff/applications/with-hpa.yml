@@ -24,6 +24,6 @@ spec:
   # solution
   ignoreDiffereces:
   - group: apps
-  kind: Deplyment
-  jsonPointers:
-  - /spec/rep
+    kind: Deplyment
+    jsonPointers:
+    - /spec/rep
